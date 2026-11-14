@@ -1,0 +1,10 @@
+[package]
+name = "nm-wfps-switch"
+description = "A NetworkManager Wi-Fi Powersave on/off switch"
+readme = "README.md"
+version = "0.0.1"
+edition = "2024"
+repository = "https://github.com/Strivar-Dev/nm-wfps-switch"
+license = "MIT"
+
+[dependencies]
